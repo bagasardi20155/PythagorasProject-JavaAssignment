@@ -68,7 +68,7 @@ public class PythagorasProject {
                 
                 sisi = Math.sqrt(Math.pow(sisi3, 2) - Math.pow(sisi1, 2));
                 
-                System.out.println("\nSisi miring / hipotenusa dari segitiga tersebut adalah : " + sisi);
+                System.out.println("\nSisi a / b dari segitiga tersebut adalah : " + sisi);
                 
                 break;
             
